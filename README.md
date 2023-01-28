@@ -75,4 +75,4 @@ Descrizione originale:
 Progetto per start2impact super guida HTML e CSS
 Una presentazione su come ho sviluppato il sito ed il linguaggio in cui è stato scritto: https://docs.google.com/presentation/d/1EiYwfl4OWEMdcV6vjAXNX0Rnshj6I9EP3wkYraogBB0/edit?usp=sharing
 
-Link GitHub Page: https://solaire-kun.github.io/my-website.github.io/
+Link GitHub Page: https://solaire-kun.github.io/my-portfolio.github.io/
